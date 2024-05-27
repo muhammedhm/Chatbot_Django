@@ -16,7 +16,7 @@ from django.utils import timezone
 logger = logging.getLogger(__name__)
 
 # # Set OpenAI API key
-openai.api_key = 'sk-proj-P6T9BwkV22OvbuzVudUgT3BlbkFJAC6PuOJkr0x9W6LVAGm8'
+openai.api_key = 'Your api key'
 #
 
 
